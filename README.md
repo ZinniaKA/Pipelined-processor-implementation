@@ -3,7 +3,7 @@ Assignment 2 of the course Computer Architecture at IIT Delhi under Prof. Rijure
 
 Implemented the following (detailed problem description in pdf) :
 
-1. **5 Stage Basic MIPS pipeline without bypassing**
+1. **5 Stage Basic MIPS pipeline without bypassing**\n
    Implement in C++ the basic 5 stage MIPS pipeline —
    a. IF (Instruction Fetch)
    b. ID (Instruction Decode)
